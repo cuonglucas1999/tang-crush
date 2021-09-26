@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Nguyễn Thị Ngọc Hà !',
+    introTitle: 'Nguyễn Thị Ngọc Hà, babi à !',
     introDesc: `Anh biết chúng ta trong 2 tháng qua đã cố gắng rất nhiều.
     Anh đã hơi bị đần vì không biết phải chuẩn bị cho bé như nào.
     Đây là lần đầu anh làm cái này vì bé rất đặc biệt với anh.
@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Điều anh do dự ngày hôm nay đó là Liệu rằng em bé có muốn trở thành 1 phần của cuộc sống của anh không ? <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Có',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    mess: 'Anh biết mà , anh biết em sẽ làm ny anh mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối mai 8h anh qua gặp em nhé tình yêu của anh.',
     btnAccept: 'Okiiiii lun <3',
    
