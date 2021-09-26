@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Nguyễn Thị Ngọc Hà, babi à !',
-    introDesc: `Anh biết chúng ta trong 2 tháng qua đã cố gắng rất nhiều.
-    Anh đã hơi bị đần vì không biết phải chuẩn bị cho bé như nào.
-    Đây là lần đầu anh làm cái này vì bé rất đặc biệt với anh.
-    Đằng sau chữ yêu đây là thương bé rất nhiều.`,
+    introTitle: 'Nguyễn Thị Ngọc Hà,Babe à!',
+    introDesc: `Cảm ơn em trong 2 tháng qua đã cùng anh cố gắng rất nhiều 
+    Anh hơi bị đần vì đã không biết chuẩn bị cho em bé như thế nào
+    Đây là lần đầu anh làm như thế này 
+    vì em rất đặc biệt với anh <3`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em bé đang rất nhớ anh nhỉ 😙',
-    desc: 'Nhận mạnh là đừng cố bấm vào nút Không đấy ^^',
-    btnYes: 'Yes, Em bé nhớ Lucasss nhìu lắmm <33',
+    title: 'Phải chăng rằng em bé đang nhớ anh phải khum  😙',
+    desc: 'Tuyệt đối đừng ấn không đấy nhá không anh buồn >< ',
+    btnYes: 'Có, đặc biệt nhớ anh <33',
     btnNo: 'Không, Không và Không :3',
-    question:'Điều anh do dự ngày hôm nay đó là Liệu rằng em bé có muốn trở thành 1 phần của cuộc sống của anh không ? <3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em, Em đồng ý làm người yêu anh nhé <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Có',
-    mess: 'Anh biết mà , anh biết em sẽ làm ny anh mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối mai 8h anh qua gặp em nhé tình yêu của anh.',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Anh biết mà 🥰. Yêu em bé của anh nhiều nhiều 😘😘',
+    messDesc: 'Tối mai 8h anh qua gặp babi của anh và cho bé một cái ôm thiệc là lâu nhớ.',
     btnAccept: 'Okiiiii lun <3',
-   
+    messLink: 'https://www.facebook.com/messages/t/100006398982075
 }
